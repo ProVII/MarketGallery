@@ -86,7 +86,7 @@ Initially we're going to demonstrate the app when logging in as a customer:
 35.3 Under Location Controls, Select Manual tab.
 35.4 Select Decimal
 35.5 By default, there's already a longitude/latitude values entered. If there isn't, add any latitude/longitude, preferrably in North America.
---------- 35.6 Press Send.
+35.6 Press Send.
 36. *Notice* now that your GPS location has been updated on the emulator's map just like a phone would update the GPS location, except in this case your location would depend on whatever latitude/longitude values you've entered.
 37. |Optional| feel free to repeat step 35 with a new latitude/longitude location.
 38. You may logout at any point now via the menu.
