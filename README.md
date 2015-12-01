@@ -6,7 +6,7 @@ This is a project submission to CSCI 4100U Mobile Devices entitled "Snackies Mar
 
 
 
-SETUP:
+##### SETUP:
 This project is best ran on a Nexus 5 API 23 x86 emulator (currently supports APIs 19-23), it also requires a minimum of 25 MB on your phone since it incorporates a demo video.
 
 Note: If required to change the map API, you can do so by obtaining an API and entering it in the manifest directly. However you will not likely need to do so, since the API was already obtained for you, and should remain active unless disabled.
@@ -15,12 +15,12 @@ Note: If you are already able to run the app, you'll be able to access the demo 
 
 
 
-BRIEF APP HISTORY:
+##### BRIEF APP HISTORY:
 Now that we're past setting up and ready to launch the app, welcome to our Snackies Market Gallery app. As the title mentions, this app is intended as a gallery viewer for Snackies branch stores. Snackies is a Canadian multi-branch company, with 7 total branches in Canada and 1 recently installed branch in the US.
 
 
 
-LOGIN INSTRUCTIONS:
+##### LOGIN INSTRUCTIONS:
 There are two ways to login into the app, as a Developer or as a Customer. To log in as a developer, use the credentials given below:
 
 Username: Admin
@@ -30,7 +30,7 @@ To login as a customer, you'd have to register through the app since there are c
 
 
 
-DETAILED FEATURES AND FUNCTIONALITIES:
+##### DETAILED FEATURES AND FUNCTIONALITIES:
 This section lists all the features included in the app alongside the concepts learned and achieved through the course.
 
 Logging in as a Developer/Owner provides you with the ability to add/delete products from your app, allowing you to edit the products for your customers. To log in as a developer:
@@ -91,18 +91,18 @@ Initially we're going to demonstrate the app when logging in as a customer:
 37. |Optional| feel free to repeat step 35 with a new latitude/longitude location.
 38. You may logout at any point now via the menu.
 
-FOR APK:
+##### FOR APK:
 If you wish to obtain a signed APK of this app to run on your android device instead of an emulator, you will find one under MarketGallery>app>app-release.apk
 
 
-EQUAL CONTRIBUTION STATEMENT:
+##### EQUAL CONTRIBUTION STATEMENT:
 We've not included any names on any classes since we've both equally contributed towards this project. Thank you for your understanding and consideration.
 
 
 
 
 
-LEGEND:
+##### LEGEND:
 - *Notice* - usually represents an app feature to take note of.
 - --Note-- - describes user feedback for successful completion of certain steps.
 - |Optional| - displays an optional step.
