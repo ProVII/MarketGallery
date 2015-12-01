@@ -1,6 +1,6 @@
 This is a project submission to CSCI 4100U Mobile Devices entitled "Snackies Market Gallery".
 
-### SUBMITTED BY:
+##### SUBMITTED BY:
 - Fuad Tareq, 100504146
 - Mohammad Faraz Ali, 100490152
 
