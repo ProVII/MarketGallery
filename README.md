@@ -23,8 +23,8 @@ Now that we're past setting up and ready to launch the app, welcome to our Snack
 ##### LOGIN INSTRUCTIONS:
 There are two ways to login into the app, as a Developer or as a Customer. To log in as a developer, use the credentials given below:
 
-Username: Admin
-Password: owner
+- Username: Admin
+- Password: owner
 
 To login as a customer, you'd have to register through the app since there are currently no customers registered.
 
