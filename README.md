@@ -9,9 +9,9 @@ This is a project submission to CSCI 4100U Mobile Devices entitled "Snackies Mar
 ##### SETUP:
 This project is best ran on a Nexus 5 API 23 x86 emulator (currently supports APIs 19-23), it also requires a minimum of 25 MB on your phone since it incorporates a demo video.
 
-*Note:* If required to change the map API, you can do so by obtaining an API and entering it in the manifest directly. However you will not likely need to do so, since the API was already obtained for you, and should remain active unless disabled.
+**Note:** If required to change the map API, you can do so by obtaining an API and entering it in the manifest directly. However you will not likely need to do so, since the API was already obtained for you, and should remain active unless disabled.
 
-*Note:* If you are already able to run the app, you'll be able to access the demo video located on the app's login page bottom left, prior to logging in. If you would like to skip reading this text file and go ahead and watch the tutorial video, feel free to do so since it will incorporate most of the details mentioned here. However, for easier access, you'll also find the credentials for logging into the app as a developer (which are mentioned in the demo video) in here below.
+**Note:** If you are already able to run the app, you'll be able to access the demo video located on the app's login page bottom left, prior to logging in. If you would like to skip reading this text file and go ahead and watch the tutorial video, feel free to do so since it will incorporate most of the details mentioned here. However, for easier access, you'll also find the credentials for logging into the app as a developer (which are mentioned in the demo video) in here below.
 
 
 
