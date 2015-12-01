@@ -76,7 +76,7 @@ Initially we're going to demonstrate the app when logging in as a customer:
 28. Press SWITCH CURRENT CURRENCY to change the app's default displayed currency (USD) to the selected currency.
 29. Press NEXT to view the next product.
 30. _**Notice**_ the magic of all products displaying converted price to your currency now.
-31. *Notice* that the PREVIOUS button is unclickable when it's on the first product, and the same applies for the NEXT button, to improve user error detection.
+31. _**Notice**_ that the PREVIOUS button is unclickable when it's on the first product, and the same applies for the NEXT button, to improve user error detection.
 32. Press Contact Us through the menu to view our current known branch locations and find the nearest location to you.
 33. --Note-- if the map complains about the API, please check the SETUP section (first note) of the README file (found at the top).
 34. _**Notice**_ we'll find the nearest branches to you based on your current GPS location. Normally, this is provided automatically by your phone if there's network connection and there's no work on your end required.
