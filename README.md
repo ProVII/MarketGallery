@@ -39,9 +39,9 @@ Logging in as a Developer/Owner provides you with the ability to add/delete prod
 2. You'll notice two main differences, the menu now incorporates the ability to add or delete products, as well as, the app recognizes you logging in as a developer.
 3. To delete a product, just press the "Delete this Product" from the menu.
 4. To add a product, just press the "Add Product" from the menu.
-- Enter the name, description, and price of the product you wish to add.
-- |Optional| press CANCEL if you wish to go back without adding any new product.
-- Press SAVE to add the new product into the database.
+- - Enter the name, description, and price of the product you wish to add.
+- - |Optional| press CANCEL if you wish to go back without adding any new product.
+- - Press SAVE to add the new product into the database.
 5. The rest of the functionality is similar to the customer functionality and you can move to step 14 of the customer functionalities to follow.
 
 Initially we're going to demonstrate the app when logging in as a customer:
