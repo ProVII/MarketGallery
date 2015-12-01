@@ -39,9 +39,9 @@ Logging in as a Developer/Owner provides you with the ability to add/delete prod
 2. You'll notice two main differences, the menu now incorporates the ability to add or delete products, as well as, the app recognizes you logging in as a developer.
 3. To delete a product, just press the "Delete this Product" from the menu.
 4. To add a product, just press the "Add Product" from the menu.
-4.1 Enter the name, description, and price of the product you wish to add.
-4.2 |Optional| press CANCEL if you wish to go back without adding any new product.
-4.3 Press SAVE to add the new product into the database.
+- Enter the name, description, and price of the product you wish to add.
+- |Optional| press CANCEL if you wish to go back without adding any new product.
+- Press SAVE to add the new product into the database.
 5. The rest of the functionality is similar to the customer functionality and you can move to step 14 of the customer functionalities to follow.
 
 Initially we're going to demonstrate the app when logging in as a customer:
@@ -81,12 +81,12 @@ Initially we're going to demonstrate the app when logging in as a customer:
 33. --Note-- if the map complains about the API, please check the SETUP section (first note) of the README file (found at the top).
 34. *Notice* we'll find the nearest branches to you based on your current GPS location. Normally, this is provided automatically by your phone if there's network connection and there's no work on your end required.
 35. --Note-- if you're using an emulator you'll need to send a GPS location first to your emulator for the map to work correctly as intended. Below are the necessary steps required to supply your emulator with a GPS coordinate:
-35.1 Open Android Device Monitor, either by pressing the icon next to the "?" or by locating it through the menu Tools>Android>Android Device Monitor.
-35.2 Once opened, select the Emulator Control tab.
-35.3 Under Location Controls, Select Manual tab.
-35.4 Select Decimal
-35.5 By default, there's already a longitude/latitude values entered. If there isn't, add any latitude/longitude, preferrably in North America.
-35.6 Press Send.
+- Open Android Device Monitor, either by pressing the icon next to the "?" or by locating it through the menu Tools>Android>Android Device Monitor.
+- Once opened, select the Emulator Control tab.
+- Under Location Controls, Select Manual tab.
+- Select Decimal
+- By default, there's already a longitude/latitude values entered. If there isn't, add any latitude/longitude, preferrably in North America.
+- Press Send.
 36. *Notice* now that your GPS location has been updated on the emulator's map just like a phone would update the GPS location, except in this case your location would depend on whatever latitude/longitude values you've entered.
 37. |Optional| feel free to repeat step 35 with a new latitude/longitude location.
 38. You may logout at any point now via the menu.
