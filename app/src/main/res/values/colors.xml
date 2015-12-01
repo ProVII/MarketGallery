@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#EDFFA6</color>
+    <color name="linked_yellow">#F7FF0D</color>
+    <color name="hint_color">#FF2908</color>
+</resources>

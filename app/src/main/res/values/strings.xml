@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Snackies Market Gallery</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="devs_only"><u>Devs &amp; Owners Only!</u></string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="title_activity_devs_login_demo">Devs Login Demo</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="title_activity_register_customer">Snackies Customer Registration</string>
+    <string name="register_name">Name:</string>
+    <string name="register_confirm_password">Confirm Password:</string>
+    <string name="register_email">Email Address:</string>
+    <string name="button_register">Register</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="title_activity_browse_products_devs">Snackies Market Gallery</string>
+    <string name="title_activity_browse_products_customer">Snackies Market Gallery</string>
+    <string name="username_hint"><font size="20">Username is case sensitive</font></string>
+    <string name="password_hint"><font size="20">Password is case sensitive</font></string>
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+    <string name="menu_add_product">Add a Product</string>
+    <string name="menu_delete_product">Delete this Product</string>
+    <string name="product_name">Product:</string>
+    <string name="product_name_field">abc</string>
+    <string name="product_description">Description:</string>
+    <string name="product_description_field">abc</string>
+    <string name="price_cad">CAD Price:</string>
+    <string name="price_cad_field">abc</string>
+    <string name="price_usd">USD Price:</string>
+    <string name="price_usd_field">abc</string>
+    <string name="gallery_description">Welcome to</string>
+    <string name="gallery_description2">(You may add/delete a product via the menu)</string>
+    <string name="gallery_customer_description">Welcome to</string>
+    <string name="title_activity_add_product">Add a new Product</string>
+    <string name="button_save">Save</string>
+    <string name="price_cad_edit_text" />
+    <string name="product_description_edit_text" />
+    <string name="product_name_edit_text" />
+    <string name="user_developer_imageview">Developer</string>
+    <string name="user_customer_imageview"></string>
+    <string name="obtain_username">abc</string>
+    <string name="different_price"><u>Different currency?</u></string>
+    <string name="title_activity_switch_currency">Switch Currency</string>
+    <string name="convert">Convert</string>
+    <string name="cad_textview">abc</string>
+    <string name="to">CAD to</string>
+    <string name="converted_price" />
+    <string name="switch_currency_button">Switch Current Currency</string>
+    <string name="title_activity_contact_us">Contact Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="logout">Logout</string>
+    <string name="contact_us_description">You can check our nearest branch locations to you in the map below</string>
+    <string name="contact_us_description2">We have recently opened our first branch in the US!</string>
+    <string name="title_activity_user_images">userImages</string>
+    <string name="title_activity_user_profile">UserProfile</string>
+    <string name="abc">abc</string>
+    <string name="back_button">Back</string>
+    <string name="user_profile">My Profile</string>
+</resources>

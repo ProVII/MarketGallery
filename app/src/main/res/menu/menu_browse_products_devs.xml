@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.courageous.marketgallery.BrowseProductsDevs">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="5" app:showAsAction="never" />
+
+    <item android:id="@+id/add_product"
+        android:title="@string/menu_add_product"
+        android:orderInCategory="1"
+        app:showAsAction="never"
+        android:onClick="addProductMenu" />
+    <item android:id="@+id/delete_produt"
+        android:title="@string/menu_delete_product"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        android:onClick="deleteProductMenu" />
+    <item android:id="@+id/contact_us"
+        android:title="@string/contact_us"
+        android:orderInCategory="3"
+        app:showAsAction="never"
+        android:onClick="contactUsMenu" />
+    <item android:id="@+id/user_profile"
+        android:title="@string/user_profile"
+        android:orderInCategory="4"
+        app:showAsAction="never"
+        android:onClick="userProfileMenu" />
+    <item android:id="@+id/Logout"
+        android:title="@string/logout"
+        android:orderInCategory="6"
+        app:showAsAction="never"
+        android:onClick="logoutMenu" />
+</menu>
