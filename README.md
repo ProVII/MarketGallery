@@ -81,11 +81,11 @@ Initially we're going to demonstrate the app when logging in as a customer:
 33. --Note-- if the map complains about the API, please check the SETUP section (first note) of the README file (found at the top).
 34. *Notice* we'll find the nearest branches to you based on your current GPS location. Normally, this is provided automatically by your phone if there's network connection and there's no work on your end required.
 35. --Note-- if you're using an emulator you'll need to send a GPS location first to your emulator for the map to work correctly as intended. Below are the necessary steps required to supply your emulator with a GPS coordinate:
-- Open Android Device Monitor, either by pressing the icon next to the "?" or by locating it through the menu Tools>Android>Android Device Monitor.
-- Once opened, select the Emulator Control tab.
-- Under Location Controls, Select Manual tab.
-- Select Decimal
-- By default, there's already a longitude/latitude values entered. If there isn't, add any latitude/longitude, preferrably in North America.
+  - Open Android Device Monitor, either by pressing the icon next to the "?" or by locating it through the menu Tools>Android>Android Device Monitor.
+  - Once opened, select the Emulator Control tab.
+  - Under Location Controls, Select Manual tab.
+  - Select Decimal
+  - By default, there's already a longitude/latitude values entered. If there isn't, add any latitude/longitude, preferrably in North America.
 - Press Send.
 36. *Notice* now that your GPS location has been updated on the emulator's map just like a phone would update the GPS location, except in this case your location would depend on whatever latitude/longitude values you've entered.
 37. |Optional| feel free to repeat step 35 with a new latitude/longitude location.
