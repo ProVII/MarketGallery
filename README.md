@@ -47,7 +47,7 @@ Logging in as a Developer/Owner provides you with the ability to add/delete prod
 Initially we're going to demonstrate the app when logging in as a customer:
 
 1. Pressing on the "Devs & Owners Only!" link at the bottom left of the app allows you to view a tutorial demo video for using the app.
-2. _*Notice*_ that you cannot press the LOGIN button unless you have entered something into both text fields.
+2. _**Notice**_ that you cannot press the LOGIN button unless you have entered something into both text fields.
 3. _*Notice*_ that if you try to enter a non-existing username it will display an error.
 4. To login as a customer, you'll need to register first, so press the REGISTER button to proceed.
 5. *Notice* should you decide to carry on to Register after entering a username that doesn't exist, the Login page will pass your entered username to the Registration page to lessen the time of entering a username when registering.
