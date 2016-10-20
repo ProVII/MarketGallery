@@ -1,8 +1,8 @@
 This is a project submission to CSCI 4100U Mobile Devices entitled "Snackies Market Gallery".
 
 [//]: # (#### SUBMITTED BY:)
-- Fuad Tareq, 100504146
-- Mohammad Faraz Ali, 100490152
+[//]: # (- Fuad Tareq, 100504146)
+[//]: # (- Mohammad Faraz Ali, 100490152)
 
 
 
@@ -95,8 +95,8 @@ Initially we're going to demonstrate the app when logging in as a customer:
 If you wish to obtain a signed APK of this app to run on your android device instead of an emulator, you will find one under MarketGallery>app>app-release.apk
 
 
-<del>#### EQUAL CONTRIBUTION STATEMENT:
-We've not included any names on any classes since we've both equally contributed towards this project. Thank you for your understanding and consideration.</del>
+[//]: # (#### EQUAL CONTRIBUTION STATEMENT:)
+[//]: # (We've not included any names on any classes since we've both equally contributed towards this project. Thank you for your understanding and consideration.)
 
 
 #### LEGEND:
