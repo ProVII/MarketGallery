@@ -95,8 +95,8 @@ Initially we're going to demonstrate the app when logging in as a customer:
 If you wish to obtain a signed APK of this app to run on your android device instead of an emulator, you will find one under MarketGallery>app>app-release.apk
 
 
-#### EQUAL CONTRIBUTION STATEMENT:
-We've not included any names on any classes since we've both equally contributed towards this project. Thank you for your understanding and consideration.
+<del>#### EQUAL CONTRIBUTION STATEMENT:
+We've not included any names on any classes since we've both equally contributed towards this project. Thank you for your understanding and consideration.</del>
 
 
 #### LEGEND:
